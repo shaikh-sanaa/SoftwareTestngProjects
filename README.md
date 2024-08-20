@@ -1,5 +1,6 @@
 # SoftwareTestngProjects
 All manual testing projects with Documents
+
 Project#1- Write the Test case for the Coffee Machine
 CCD Coffee machine
 Bru - Latte, expresso.
